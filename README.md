@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @rockymiss
-- 👀 I’m interested in lots of things but right now I'm interested in learning how to code well...
-- 🌱 I’m currently doing a Diploma in Software Development (E-commerce Applications)...
-- 💞️ I’m looking to collaborate on...well I'm not sure yet...
-- 📫 How to reach me ...
+Hi my name is Rachel otherwise known here as rockymiss.  My interest in technology began in the last century when you needed a small bedroom to house a computer screen. I started out studying computer programming in college in 1997 however as we all know life does not always provide a straight road and I took a few detours.  At this point in my life, I’m glad my road wasn’t straight.   
 
-<!---
-rockymiss/rockymiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Since November 2021 I have been immersing myself back into the world of technology by doing a Diploma in Software Development with the Code Institute. Not only have I learned HTML, CSS, Javascript, and Python in that time, I have created projects, taken part in hackathons and have worked with some wonderful and talented people along the way. I've plenty more to learn and with some hard work I will finish the course in November 2022. 
+
